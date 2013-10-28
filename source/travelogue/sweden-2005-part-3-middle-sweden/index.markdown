@@ -1,0 +1,262 @@
+---
+layout: page
+title: "sweden 2005 - part 3 : middle sweden"
+date: 2005-08-20 22:48
+comments: true
+sharing: true
+footer: true
+---
+### From Uddevalla to Arvika
+
+#### Day 7
+
+On day 7 it was time for us to move to our next destination: Arvika
+(Värmland). The distance from Uddevalla to Arvika is about 255 km. We didn't
+take the shortest route though, but decided to take the scenic route via
+Strömstad and a short stretch through Norway.
+
+### Strömstad
+
+Strömstad is a fishing town and a popular holiday destination. In the fish
+shops allong the quayside you can eat fresh shrimp and fish, but also several
+kinds of smoked fish. Yummy. We also tried the fish cakes, which were very
+good. In the area, there are a number of prehistoric monuments, among which
+stone rings, stone ships, rock carvings, burial mounds, etc. We didn't visit
+these particular sites though.
+
+Tourist info: [Strömstad](http://stromstadtourist.vastsverige.com/templates/de
+fault____2349.aspx)
+
+### Norway
+
+The border between Sweden and Norway is formed by the Idefjord. The new
+Svinesundsbridge (toll bridge) in to Norway offers a nice view of the fjord.
+Remember that Norway is not in the EU, so you may need a passport to enter the
+country. In Norway, we turned east on road 21, which winds its way through
+some beautifull landscapes. In the town of Halden, you can see the Fredriksten
+fortress towering over the city on a cliff. Beyond the town, the road goes
+through a forest area with many lakes. Some twenty km to the north, the
+landscape changes again into farmland.
+
+Along this road, we encountered our very first moose, an enormous animal the
+size of a big horse. We were glad the moose was standing in a field at the
+forests edge, and not on the road. A head on collision with a fully grown
+moose is often deadly, not only for the moose, but also for the passengers of
+the car.
+
+Tourist info: [Svinesund and Halden](http://www.visithalden.com/?lang=en)
+
+In Örje, we turned east again onto the E18 and crossed the border back to
+Sweden.
+
+Past Töcksfors, we turned northwest to Karlanda and then followed road 172
+into Arvika. Along the way we stopped a few times to enjoy the view.
+
+### Arvika
+
+In Arvika we stayed in the [Arkaden hotel](http://www.hotelarkaden.com) in the
+center of town, which is more accurately described an upscale bed and
+breakfast.
+
+#### Day 8
+
+The area around Arvika is mainly forest area. There are several nature
+reserves where you can walk along marked hiking trails. The true city folk we
+are, we didn't bring appropriate footwear for hiking.
+
+The area is also renowned for its arts and crafts: e.g. the [Klassbols linen
+mill](http://www.klassbols.se/), a glass blowing studio, … In town there are
+many arts and crafts shops. Around 1900, there was an artists community
+working in [Rackstad Colony](http://www.rackstadmuseet.se/), which is now a
+museum. These artists designed the church of Arvika in Nordic Romantic style.
+
+Because the weather was so nice, we decided to take a walk around the town to
+look at the different sculptures and the church.
+
+Afterward, we took the guided tour at Såguddens open air museum. It became a
+private tour, as we were the only visitors interested in the tour. The museum
+has a number of farm buildings that were moved there from around the area. The
+main building is the large home of a rich farmer. The various rooms are
+furnished with things typical for one period. The beautiful closets and
+typical mural decorations were very nice. This gave us some idea of what life
+was like before, in the warm sunshine it didn't seem so bad, but we can only
+wonder what it was like in the long, cold and isolated winters.
+
+Tourist info: [Arvika](http://www.arvika.se/english/tourism)
+
+### Sälen
+
+#### Day 9
+
+On Midsummer's Eve we had to get up early to drive to Sälen (Dalarna), 240 km
+away. There we were meeting up with close friends to celebrate [Midsummer
+festival](http://en.wikipedia.org/wiki/Midsummer). After a traditional Swedish
+lunch of pickled herring, smoked salmon, dill potatoes and some aquavit, we
+went to a local farmyard (Olnispagården open air museum) where a maypole would
+be raised.
+
+Midsummer's day was also spent visiting, with a side of strong coffee and
+strawberry and cream pie. The next day, we went back to being regular
+tourists.
+
+[Sälen](http://www.salen.se/start_EN.asp) is a ski resort at the southernmost
+end of the Swedish-Norwegian mountain range called the 'Fjäll' (though the
+word 'fjäll' is used in middle Sweden for any type of mountain). Typical for
+the Fjäll mountains are their rounded tops, usually lacking any well defined
+peaks. The upper part of the mountains usually rises above the tree-line and
+only shrubs grow there.  
+Särna
+
+About 70 km north from Sälen lies the village of Särna. Just outside of the
+village (coming from Särna), a tower was built from where you can see the
+entire area. In the center of town, there is a lovely wooden church from the
+mid 17th century, known as the 'Old Church'.
+
+### Fulufjäll National Park
+
+20 km outside of Särna, lies"[Fulufjäll National
+Park":http://www.swedishepa.se/In-English/Menu/Enjoying-nature/National-parks-
+and-other-places-worth-visiting/National-Parks-in-Sweden/Fulufjallet-National-
+Park/. Swedens largest waterfall, the Njupeskär is located in the park. A well
+marked trail of 4km leads you to the waterfall and back to the parking lot.
+Wooden walkways are built over the more wet areas along the trail. In short,
+this is a perfect outing for inexperienced mountaineers (city folk!).
+
+Along the way you can enjoy the varied plant life: blooming hjortron
+([Cloudberry](http://en.wikipedia.org/wiki/Cloudberry), Moltebeer) in the open
+areas and in the woods lingon
+([Cowberry](http://en.wikipedia.org/wiki/Cowberry), Preiselbeer) and blueberry
+as far as they eye can see. The trees are a mix of pine and birch. Supposedly,
+there are beers, wolves and a particularly large type of moose in the reserve.
+
+The only fauna we encountered were hordes of hungry mosquitoes, but the
+repellent worked like a charm. We drove around the Fulufjäll, partly through
+Norway, across the Transtrandsfjäll back to Sälen.
+
+#### Day 10
+
+From Sälen, we left for Örebro (Närke), which is about 310 km away. Outside of
+Fredriksberg, we turned onto a smaller road leading to Gravendal. Here we
+found a prime example of some typical Swedish landscape for this area.
+
+### Kopparberg
+
+Then we drove on to Kopparberg (Västmanland) in the heart of the Bergslagen
+area. In the heart of this small town there are some beautiful old buildings
+to visit. The tourist office is located in one of these, the Tingshus
+(Courthouse) from 1642. Next door is an old archive building from the mining
+company (Berslagsarkivet, 1876-1877), and a very old grain seed warehouse from
+the 17th century.
+
+Around the corner, there is a small country life museum where the local
+pensioners give you a personal tour of the premises: a photographer's studio,
+a shoemaker, a postal office and a goldsmiths workshop. In a shed outside a
+small reconstruction has been made of a mine.
+
+The local pensioners club has also prepared a brochure with a guided tour of
+the town and the various pits. The brochure is only available in Swedish
+though, and we managed to get lost before reaching the first pit. The town
+also has a beautiful old church (1635) with separate bell tower and stables.
+
+Tourist info: [Ljusnarsberg](http://www.ljusnarsberg.se/turism/turism.asp) and
+[Bergslagen region](http://www.bergslagsdiagonalen.com/index_netscape.html)
+
+### Örebro
+
+#### Day 11
+
+Örebro (Närke) has a somewhat bad reputation among Swedes as a dull city, but
+we didn't find it dull at all. In the middle of town there is an enormous
+castle, that started as a defensive fortress but was later rebuilt into a
+residential renaissance castle.
+
+You can get a regular tour of the castle with a guide, but you can also take a
+theatrical tour (even in English) which gives a very lively impression of the
+castles history.
+
+The town center has a number of 19th century buildings, both in stone and in
+wood, which give it a nice atmosphere. At the tourist office, you can get a
+map with a marked trail and some explanation about the highlights.
+
+The city park features an open air museum with small streets with old wooden
+buildings. During the day, a number of activities go on there, but we arrived
+too late to see any.
+
+A few kilometers from the town center, you can follow a footpath that leads
+past a number of modern art sculptures. On one end there is a small nature
+reserve. There are a number of pools and small lakes, so beware of the
+mosquitoes.
+
+Tourist info: [Örebro](http://www2.orebro.se/turism/)
+
+In Örebro we stayed in the [IBIS
+hotel](http://www.ibishotel.com/gb/home/index.shtml) next to the [Gustavsvik
+Adventure baths](http://www.gustavsvik.com/). Guests at the IBIS hotel get a
+discount at the swimming pool. Gustavsviks Adventure Baths advertise free
+internet in their cottages.
+
+### Nora
+
+#### Day 12
+
+Nora (Västmanland) lies about 25 km to the north of Örebro. The town center
+still has a large number of wooden houses from the 18th and 19th century.
+
+In the nearby lake, there is a large island with an adventure park for
+children. Nora is renowned for its ice cream parlor NoraGlass, which only
+sells freshly made ice cream.
+
+The town has an old railway station where several old steam powered
+locomotives are kept and maintained by volunteers. A few rail cars have been
+converted to a little restaurant, and some others into a guest house. In
+summer, a small diesel train takes tourists to Pershyttan, a few kilometers
+away.
+
+We used our own transportation to go to Pershyttan, were the old iron works
+are located. The site is very well preserved and gives you a good idea of what
+went on here. The guided tour takes you inside the buildings to see how [pig
+iron](http://en.wikipedia.org/wiki/Pig_Iron) was made from iron ore.
+
+Nearby, an old mine has been reopened to visitors, though only with a guide.
+The mine isn't very deep underground and you can always still see daylight,
+still it didn't look like an appealing working environment to us.
+
+In the evening, we went back to Nora to find something for dinner. The guide
+at Pershyttan recommended us Maria Langs Krog, right next to the church. The
+food was indeed excellent.
+
+Tourist info: [Nora](http://www.nora.se/) and
+[Bergslagsdiagonalen](http://www.bergslagsdiagonalen.com/)
+
+### Bergs Slussar
+
+#### Day 13
+
+Our time in the Örebro area was up and it was time to go further south to
+Småland. On the way down, we stopped at Bergs slussar (Östergötland) to see
+the locks on the Göta Kanal.
+
+Finding Bergs slussar proved to be quite a challenge, without a detailed
+enough map or a GPS system. As Bergs slussar is such a tourist attraction, we
+expected it to be indicated along road 36 between Motala and Linköping.
+
+The neighbouring town of Ljungsbro was indicated, but we waited in vain for an
+arrow pointing to our destination. The next thing we knew, we were driving
+into Linköping, without a clue of where to go. Maybe Linköping loses to much
+tourists to Bergs Slussar and has removed all road signs leading there, who
+knows. In the end we followed the signs to the tourist office and got a better
+map and some directions. We left the town in haste, before they found some
+other way to keep us.
+
+Tourist info: [Göta Kanal](http://www.gotakanal.se/),
+[Linköping](http://www.visitlinkoping.se/)
+
+Album: [Middle Sweden -
+Pictures](http://rossen.be/gallery/?set=72157624541049557)
+
+## More like this
+
+  * [Sweden 2005 - Part 1 : Traveling to Sweden](/travelogue/sweden-2005-part-1-traveling-to-sweden)
+  * [Sweden 2005 - Part 2 : West Sweden](/travelogue/sweden-2005-part-2-west-sweden)
+  * [Sweden 2005 - Part 4 : South Sweden](/travelogue/sweden-2005-part-4-south-sweden)
+

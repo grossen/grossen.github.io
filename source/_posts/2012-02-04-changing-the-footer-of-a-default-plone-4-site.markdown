@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Changing the footer of a default Plone 4 site"
+date: 2012-02-04 23:06
+comments: true
+categories: 
+- cms
+- plone
+---
+For changing the footer, go into the ZMI.
+Here you find the footer template in the <site_root>/portal_view_customizations folder.
+
+Edit the plone.footer file to something like:
+{% codeblock lang:html %}
+<div metal:define-macro="portal_footer"
+  i18n:domain="plone"
+  class="row">
+  <div class="position-0 width-full cell">
+    <div id="portal-footer">
+      <p>
+      Designed by <b>G Rossen</b> | <a href="http://rossen.be">r o s s e n . be</a>
+      </p>
+    </div>
+  </div>
+</div>
+{% endcodeblock %}
+This should change your footer to the above text.

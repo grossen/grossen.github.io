@@ -1,0 +1,33 @@
+---
+layout: post
+title: "The Quest for the Perfect CMS "
+date: 2013-10-28 23:03
+comments: true
+categories: 
+- wordpress
+- drupal
+- cms
+- textpattern
+- plone
+- modx
+---
+It all started with WordPress...
+
+After WordPress i migrated to Drupal, Sypmhony CMS, Textpattern, MODx and now
+this site is running Plone.
+
+While it has a steep learning curve, Plone is doing out of the box what i want
+for this site, unlike the other CMS's where i needed a lot of
+plugins/addons/extentions.
+
+Textile markup, richt text editor, multimedia handling, integrated search,
+photo albums, ... all included.
+
+One aspect Plone really needs to improve though, is theming. For simple
+designs, like this site, you can quite easily override some of the CSS, but
+advanced styling means deep diving into the bowels of Plone and Zope. Or as an
+alternative: using a theme transformer such as Diazo or Deliverance.
+
+Coming next: some small guides how to adapt the standard Plone install and
+theme into something similar to this site.
+

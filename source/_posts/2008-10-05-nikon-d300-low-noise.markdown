@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Nikon D300 Low Noise"
+date: 2008-10-05 22:55
+comments: true
+categories:
+- nikon
+- d300
+- low noise
+---
+If you downloaded the D2X modes from Nikon you may have noticed the noise at
+ISO 400 or even ISO 200\. Many people seem to use D2Xmode1 for portraits and
+D2Xmode3 for nature and landscape photography. Someone on the
+[dpreview.com](http://forums.dpreview.com/forums/) suggested to use the
+following settings:
+
+  * Picture Control: Neutral
+  * Sharpening +6
+  * Contrast +1
+  * Brightness -1
+  * Saturation +1
+  * Hue +1
+
+The result is simply stunning. Nearly no noise anymore, even in heavily
+cropped images, perfect detail and colours.
+

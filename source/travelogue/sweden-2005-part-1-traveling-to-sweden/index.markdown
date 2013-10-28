@@ -1,0 +1,41 @@
+---
+layout: page
+title: "sweden 2005 - part 1 : traveling to sweden"
+date: 2005-08-05 21:42
+comments: true
+sharing: true
+footer: true
+---
+
+### Day 1
+
+To limit the number of hours spent in the car driving up to Sweden, we chose to take a boat from the port of Ghent (Belgium) to Gothenburg (Sweden). This was a small adventure in itself, as this isn’t an average passenger ship we’re talking about.
+
+There is no ferry operating between Belgium and Sweden, but there is a cargo line that also takes on board a number of passengers with their car or caravan. We didn’t really know much more than that before we arrived at the port, so we weren’t quite sure what to expect.
+
+Upon our arrival at the indicated quay, the friendly people at the reception desk just told us to drive on up to the ship and get on board. This sounds straightforward enough, but this means crossing a busy shipping wharf between rows of parked truck lorries, with little tow trucks coming from all over the place speeding into the ship to deliver their cargo. Driving into the ship seemed like a reckless idea, especially since we didn’t have a clue where the car was supposed to go. So we parked our car in a place where it didn’t seem to much in the way. By that point it became clear that we were the only tourists there that evening.
+
+After some hesitation, we walked over the pier (look left, look right, look left again, then cross) and into the cargo bay to talk to the only persons in sight, the stevedores overseeing the loading of the ship. The level of noise made it hard to communicate, but luckily they realized at once what two so out-of-place people were doing there. So we handed over the car keys and followed the sailor to our quarters. This involved walking up a steep ramp to the ships open deck and then a climbing several flights of stairs up to the living quarters.
+
+Our sailor guide smiled and said they went up and down the ship dozens of time each day. With a friendly ‘make yourself at home’, but no further information, we were left in our cabin or the ‘guest room’. After a quick survey of the cabin, we found a leaflet with some crucial information: meal times. We had just missed dinner (18-19h), but could look forward to breakfast (7.30 to 8) and lunch (12-13) the next day.
+
+The ship wasn’t scheduled to leave until 3 o’clock in the morning and would then take 33 hours to get to Gothenburg. Not wanting too spend all that time cooped up in the cabin, we set out exploring the ship.
+The sound of sloshing water (o dear!) brought us to the recreation room: a sauna and small pool. Another door was marked ‘saloon’, but there were voices inside and we weren’t brave enough to intrude yet. All the other rooms were marked captain, first officer, second officer, etc. One flight of stairs down, we found more living quarters and also the crew’s and the officers mess rooms, each accompanied by a lounge room. After that, all we could do was spend some time outside looking at the loading of the ship with truck trailers and Volvo and Saab cars. Good thing we brought plenty of books. Throughout the evening we went out a few times to see if our car had been brought on board yet, but by the time we went to sleep it still hadn’t.
+
+### Day 2
+
+Early next morning, though well past breakfast time, we woke up and through the windows we could just see the ship move past the last bit of Holland. After that, thee was only open sea. Although there was a stiff breeze, the sea was very calm and the ship didn’t pitch and roll very much. Time was spent reading a book and looking at the ships and oil platforms on the horizon.
+For dinner, the crew fired up their barbecue on deck and grilled a variety of fish, scampi’s, sausages, chops and ribs. For us it was certainly a festive beginning to our holiday, since we never BBQ ourselves. Too bad the northern wind made it too chilly to eat outside. During dinner we chatted with some of the crew and got to know a bit more about life on board. After dinner, the Filipino half of the crew enjoyed themselves with some karaoke.
+Day 3
+
+The next morning, we were sailing past Denmark, close enough to the coast to see the dunes. A few hours of open sea later, the port of Gothenburg came in sight. To reach this port, you must traverse the beautiful rocky coast. The pictures speak for themselves. Once we were in the harbour, the captain parallel parked the ship into the dock. Amazing!
+
+Album: [Traveling to Sweden -
+Pictures](http://rossen.be/gallery/?set=72157624541018137)
+
+### More like this
+
+  * [Sweden 2005 - Part 2 : West Sweden](/travelogue/sweden-2005-part-2-west-sweden)
+  * [Sweden 2005 - Part 3 : Middle Sweden](/travelogue/sweden-2005-part-3-middle-sweden)
+  * [Sweden 2005 - Part 4 : South Sweden](/travelogue/sweden-2005-part-4-south-sweden)
+

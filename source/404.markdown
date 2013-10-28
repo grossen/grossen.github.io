@@ -1,0 +1,10 @@
+---
+layout: page
+title: "404 Error"
+date: 2012-10-26 16:25
+comments: false
+sharing: false
+footer: false
+---
+Sorry, page not found...
+

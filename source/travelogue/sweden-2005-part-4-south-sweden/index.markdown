@@ -1,0 +1,175 @@
+---
+layout: page
+title: "sweden 2005 - part 4 : south sweden"
+date: 2005-08-25 22:48
+comments: true
+sharing: true
+footer: true
+---
+### Vimmerby
+
+After our visit in Bergs Slussar, we drove on to Vimmerby (Småland) where
+would be staying for the next couple of days in a small cottage. Vimmerby is
+where Astrid Lindgren lived and got inspiration for her books. There is an
+Astrid Lindgren theme park but we didn't visit it.
+
+Tourist info: [Vimmerby](http://www.vimmerbyturistbyra.se/en/home.aspx)
+
+### Eksjö
+
+#### Day 14
+
+60 km west of Vimmerby lies the village of Eksjö. It is another town that has
+been able to preserve many wooden buildings in the center. Most of these
+houses are built around quiet courtyards. One house is now a museum where you
+can see how a well-off family lived around 1900. Outside of Eksjö there is a
+nature reserve were you can walk through a small canyon, the Skurugata, and
+then on up the hilltop, the Skuruhatt. The trail that takes past both is only
+4 km long, but beware not to wander of onto the longer hiking trails that
+cross it. Walking through the Skurugata is a little adventurous, especially if
+it rains and the rocks become slippery. From the Skuruhatt you can see the
+surrounding countryside and forests.
+
+Tourist info: [Eksjö](http://www.eksjo.se/)
+
+#### Day 15
+
+The next day, it was time to move even further south to our last stop in
+Sweden: Lund. On our way down, we made a detour via Ljunby to the West. There
+we wanted to visit the Moose Park in Lagan
+([Elkland](http://www.moosepark.eu/)), along the E4 highway. We found this so-
+called Moose Park a bit disappointing, as it was little more than a little
+patch of land with wire fencing around it and 5 very bored looking moose in
+the middle. The location of the Moose Park, next to a highway gas station,
+should probably have tipped us off, just as the impressive amount of
+merchandising in the shop. However, this is a place where you can see a living
+moose for sure. From Ljungby we took road 124 to Liatorp, then south on the 23
+in the direction of Almhult.
+
+Outside the village of Diö lies Linnaeus' Råshult, which is the farm where
+Carl Linnaeus was born. Today, the farm and surrounding farmland have been
+restored to their 18th century appearance. You can take a walk in the
+surrounding area guided by a map and a marked trail. We got to the furthest
+point on the map without incident, but things took a turn for the worse once
+we decided to take a shortcut (which was well marked on the map, though less
+well marked in the field). The trail led us to a wet and marshy looking field,
+were we could see a group of cows quietly ruminating their food. This sight
+was pretty unnerving (remember, city folks), what if these cows decided to get
+up and say hello? To make matters worse, the trail went dead in the middle of
+the field. According to the map, we had to walk right past the cows. We
+wavered in indecision for a while, but a sudden onslaught of mosquitoes
+hastened our decision: time to flee! Against the strict admonitions not to
+stray off the marked trails (what marked trails???), we cut across the field,
+balancing on tufts of grass trying not to sink too deep into the mud, and
+eventually found a fence which led us back to civilization.
+
+We were clearly suffering from a nature overdose. As an antidote, we decided
+to drive to Älmhult, home of the very first IKEA. Sadly, we arrived to late to
+go in as the store closes at 18h on Saturdays. But driving through town helped
+us get over our ordeal anyway.
+
+Tourist info: [Älmhult](http://www.almhult.se/)
+
+### Vragerup
+
+Our drive to Lund was pleasant and uneventful and in the early evening we
+arrived at Vragerup farm, on road 103 towards Lund. [Vragerup
+farm](http://www.vragerup.se/) offers bed and breakfast in style. The house
+has two nice gardens, a swimming pool and barbecue area. The rooms and
+facilities are very luxurious.
+
+### Höllviken
+
+#### Day 16
+
+After a good night sleep and a fine breakfast, we set off to the [Fotoviken
+Viking Museum](http://www.foteviken.se/) in Höllviken. The museum is a
+reconstruction of a Viking or early medieval village. This is a living museum,
+which means a number of people live as Vikings on site throughout the summer.
+We met the village's blacksmith who told us of his life in the village and his
+work making cooking utensils, tools, nails etc. That weekend, the annual
+Viking market was going on. Vikings from all over Scandinavia, Germany,
+England, Poland and other countries were visiting and selling their wares.
+This went from jewellery, to pottery, clothing to swords and helmets. The
+Viking version of the Olympics were being held as well. First, the Viking had
+to aim one arrow into each of these bags.
+
+Then, he had to climb up a hill, and shoot an arrow into a target some 50
+meters away. The strong side wind made this very difficult.
+
+Next, he had to run down the hill, put on a helmet and pick up a shield. Once
+he came out from behind the hill, he had to sprint for cover behind some
+hides, while a small squad of archers tried to hit him with their arrows (with
+blunt rubber tips). From there, the Viking had to aim at a stuffed Viking some
+50 meters away, without hitting the child in front of him (also a stuffed
+doll).
+
+The last part was running to take cover behind a pile of rocks, again under
+fire, and aim at another large Viking doll without hitting a child Viking
+doll.
+
+The Viking village gives a very vivid impression of what life must have been
+like in that age. There was no allusion whatsoever to the Vikings bad
+reputation as ferocious warriors and pillagers. Don't mention the war, eh.
+
+### Malmö
+
+Our jump back in time hadn't wearied us too much, so in the late afternoon we
+set off to explore Malmö. It was too late in the day to visit the Design
+Museum or any other museum. Instead we followed the guided tour around the
+center of town. The old Saint Peter's church has a small chapel with old
+fresco paintings. The painting depicting the crucifixion of Christ is the most
+famous, though our personal favorite was the one with the cat and the mouse.
+
+Tourist info: [Malmö](http://www.malmotown.com/en)
+
+### Lund
+
+#### Day 17
+
+On our last day in Sweden, we went to visit the University town of Lund. We
+started with a guided tour of the Dom church, which is renowned for its
+astronomical clock and for the peculiar pillars down in the crypt. All of the
+pillars have a different geometrical pattern on them, supposedly just like in
+the temple of Salomon.
+
+Two pillars have a figure carved into them, the largest of which is called
+'Strong Finn'. The legend goes that Strong Finn was a giant that offered to
+build the church for free if the monk could guess his name before the building
+was finished. If the monk failed to guess his name, he would take his eyes in
+payment. The monk was not too worried and accepted the offer, though worry
+soon set in as the building swiftly progressed. Just as Finn was finishing the
+tower, the monk happened to pass by were Finn, his wife and baby son lived.
+The monk heard the wife saying to her son that he shouldn't cry, because his
+father Finn would come that night with the monk's eyes. Promptly, the monk
+returned to the building site and called out to the giant: "So Finn, you must
+be glad the church is almost finished". Finn was furious that the monk had
+found out his name and ran down to the crypt, where he tried to pull a pillar
+from under the church to make it collapse. Right then and there, the giant
+turned to stone, and to this day remains holding the pillar in the crypt.
+
+Next we went for a walk around town with the aid of a tourist brochure with
+the highlights. Lund has a nice botanical garden with a great variety of
+plants outdoors, and a number of greenhouses (which close early). There is
+also a very nice open air museum with old buildings which were moved there
+from various places around the countryside. By the time we got there, towards
+the end of our walk, it had already closed.
+
+Tourist info: [Lund](http://www.lund.se)
+
+### Öresundsbro
+
+#### Day 18
+
+Sadly, our vacation in Sweden was at an end. We started our long trip back
+home with a drive over the impressive Öresundsbridge (toll) towards Denmark.
+
+Album: [South Sweden -
+Pictures](http://rossen.be/gallery/?set=72157624665751442)
+
+## More like this
+
+  * [Sweden 2005 - Part 1 : Traveling to Sweden](/travelogue/sweden-2005-part-1-traveling-to-sweden)
+  * [Sweden 2005 - Part 2 : West Sweden](/travelogue/sweden-2005-part-2-west-sweden)
+  * [Sweden 2005 - Part 3 : Middle Sweden](/travelogue/sweden-2005-part-3-middle-sweden)
+

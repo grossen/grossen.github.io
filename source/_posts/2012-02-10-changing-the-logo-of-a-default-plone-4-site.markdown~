@@ -1,0 +1,58 @@
+---
+layout: post
+title: "Changing the logo of a default Plone 4 site"
+date: 2013-10-28 20:36
+comments: true
+categories:
+- cms
+- plone 
+---
+I've cheated a bit with this one, but this is how to replace the logo of a Plone 4 site with a title and a subtitle.
+
+First login to your Plone site and then go to the ZMI (Site Setup -> Zope Management Interface). In the ZMI browse to <site_root>/portal_view_customizations. Look in this place for the plone.logo entry.
+
+Click on the customize button and replace the code with:
+
+{% codeblock lang:html %}
+<h1 metal:define-macro="portal_logo"
+  id="portal-logo">
+  <a accesskey="1"
+    tal:define="portal_state context/@@plone_portal_state"
+    tal:attributes="href view/navigation_root_url"
+    i18n:domain="plone" tal:content="portal_state/portal_title">
+  </a>
+</h1>
+<h2 id="subtitle">here comes the subtitle</h2>
+{% endcodeblock %}
+
+Don't forget to save :-)
+
+As you can see the subtitle is a fixed string. If someone knows how to replace this with something like a portal_description variable, please let me know.
+
+Now we have to change the css a bit: go back to the root of the ZMI and go to <site_root>/portal_skins/plone_styles.
+Here you click on the text of ploneCustom.css and then again on customize. A new folder will be made: <site_root>/portal_skins/custom/. Here you find the ploneCustom.css. In this file add the following overrides:
+
+{% codeblock lang:css %}
+#portal-logo {
+  display: inline-block;
+  margin: 0 0;
+}
+#content .documentDescription, #content #description {
+  color: #000000;
+  font: 1.25em "Helvetica Neue",Arial,FreeSans,sans-serif;
+  margin-left: 0;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+#portal-header h2#subtitle {
+  color: #666666;
+  font: 1.25em "Helvetica Neue",Arial,FreeSans,sans-serif;
+  margin-left: 10px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+/* fixed-width layout. *
+#visual-portal-wrapper { width: 60em; margin: 0 auto; }
+{% endcodeblock %}
+
+After this change the logo region of your site should be altered.

@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Symphony CMS - another migration"
+date: 2013-10-28 23:01
+comments: true
+categories: 
+- cms
+- drupal
+- symphony cms
+---
+Don't get me wrong, [Drupal](http://www.drupal.org) was - and still is - a
+fine tool to create many kinds of websites, but the lack of good themes was
+bothering me. So i had two choices: keep searching for a nice Drupal theme or
+creating one myself, which meant that i had to get my hands dirty on things
+like [CSS](http://en.wikipedia.org/wiki/Css), Drupal
+[api's](http://en.wikipedia.org/wiki/Api),…
+
+So, why not take the big splash and learn something completely new. I was
+always interested in technologies like [XML](http://en.wikipedia.org/wiki/Xml)
+and [XSLT](http://en.wikipedia.org/wiki/Xslt), so i was delighted to find a
+CMS which is build around this standards: [Symphony CMS](http://symphony-
+cms.com).
+
+So far it has been a great ride, most of the functionality of the old Drupal
+and Wordpress versions of this site has been migrated and i have finally found
+a framework which makes it very easy to seamless include services like
+Twitter, Flickr and Last.fm.
