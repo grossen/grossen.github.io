@@ -55,4 +55,4 @@ Here you click on the text of ploneCustom.css and then again on customize. A new
 #visual-portal-wrapper { width: 60em; margin: 0 auto; }
 {% endcodeblock %}
 
-After this change the logo region of your site should be altered.
+After this edit the logo region of your site should be altered.
