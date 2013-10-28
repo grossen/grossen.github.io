@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: d300 | Rossen .be]]></title>
+  <link href="http://grossen.github.io/blog/categories/d300/atom.xml" rel="self"/>
+  <link href="http://grossen.github.io/"/>
+  <updated>2013-10-28T23:33:22+01:00</updated>
+  <id>http://grossen.github.io/</id>
+  <author>
+    <name><![CDATA[G Rossen]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Nikon D300 Low Noise]]></title>
+    <link href="http://grossen.github.io/blog/2008/10/05/nikon-d300-low-noise/"/>
+    <updated>2008-10-05T22:55:00+02:00</updated>
+    <id>http://grossen.github.io/blog/2008/10/05/nikon-d300-low-noise</id>
+    <content type="html"><![CDATA[<p>If you downloaded the D2X modes from Nikon you may have noticed the noise at
+ISO 400 or even ISO 200. Many people seem to use D2Xmode1 for portraits and
+D2Xmode3 for nature and landscape photography. Someone on the
+<a href="http://forums.dpreview.com/forums/">dpreview.com</a> suggested to use the
+following settings:</p>
+
+<ul>
+<li>Picture Control: Neutral</li>
+<li>Sharpening +6</li>
+<li>Contrast +1</li>
+<li>Brightness -1</li>
+<li>Saturation +1</li>
+<li>Hue +1</li>
+</ul>
+
+
+<p>The result is simply stunning. Nearly no noise anymore, even in heavily
+cropped images, perfect detail and colours.</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: wordpress | Rossen .be]]></title>
+  <link href="http://grossen.github.io/blog/categories/wordpress/atom.xml" rel="self"/>
+  <link href="http://grossen.github.io/"/>
+  <updated>2013-10-28T23:33:22+01:00</updated>
+  <id>http://grossen.github.io/</id>
+  <author>
+    <name><![CDATA[G Rossen]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The Quest for the Perfect CMS ]]></title>
+    <link href="http://grossen.github.io/blog/2012/02/02/the-quest-for-the-perfect-cms/"/>
+    <updated>2012-02-02T23:03:00+01:00</updated>
+    <id>http://grossen.github.io/blog/2012/02/02/the-quest-for-the-perfect-cms</id>
+    <content type="html"><![CDATA[<p>It all started with WordPress&hellip;</p>
+
+<p>After WordPress i migrated to Drupal, Sypmhony CMS, Textpattern, MODx and now
+this site is running Plone.</p>
+
+<p>While it has a steep learning curve, Plone is doing out of the box what i want
+for this site, unlike the other CMS&rsquo;s where i needed a lot of
+plugins/addons/extentions.</p>
+
+<p>Textile markup, richt text editor, multimedia handling, integrated search,
+photo albums, &hellip; all included.</p>
+
+<p>One aspect Plone really needs to improve though, is theming. For simple
+designs, like this site, you can quite easily override some of the CSS, but
+advanced styling means deep diving into the bowels of Plone and Zope. Or as an
+alternative: using a theme transformer such as Diazo or Deliverance.</p>
+
+<p>Coming next: some small guides how to adapt the standard Plone install and
+theme into something similar to this site.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Migrating to Drupal - done]]></title>
+    <link href="http://grossen.github.io/blog/2010/04/28/migrating-to-drupal-done/"/>
+    <updated>2010-04-28T22:59:00+02:00</updated>
+    <id>http://grossen.github.io/blog/2010/04/28/migrating-to-drupal-done</id>
+    <content type="html"><![CDATA[<p>The travelogue pages have their pictures restored… All links are working
+again…</p>
+
+<p>I still think for a single user blog or website Wordpress is better &amp; far
+easier to configure, but it was a nice experiment and so far I really like
+Drupal.</p>
+
+<p>Wordpress features I&rsquo;ll miss a lot:</p>
+
+<ul>
+<li>automatic updates of plugins and core</li>
+<li>NextGEN gallery</li>
+<li>themes</li>
+</ul>
+
+
+<p>Drupal features I really like:</p>
+
+<ul>
+<li>Views module</li>
+<li>Image_Field module</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Migrating to Drupal]]></title>
+    <link href="http://grossen.github.io/blog/2010/04/27/migrating-to-drupal/"/>
+    <updated>2010-04-27T22:57:00+02:00</updated>
+    <id>http://grossen.github.io/blog/2010/04/27/migrating-to-drupal</id>
+    <content type="html"><![CDATA[<p>I&rsquo;m migrating my old <a href="http://www.wordpress.org">Wordpress</a> site to a
+<a href="http://www.drupal.org">Drupal</a> based one. Currently there are a lot of broken
+links, images are not appearing and the theme could use some improvement.</p>
+
+<p>So far i&rsquo;m quite impressed with the possibilities and features of Drupal,
+although working with inline images and albums seems a bit clumsy (something
+like the <a href="http://alexrabe.de/wordpress-plugins/nextgen-%0Agallery/">NextGEN Gallery</a> module for Drupal would be very much appreciated.</p>
+]]></content>
+  </entry>
+  
+</feed>

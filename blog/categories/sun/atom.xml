@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: sun | Rossen .be]]></title>
+  <link href="http://grossen.github.io/blog/categories/sun/atom.xml" rel="self"/>
+  <link href="http://grossen.github.io/"/>
+  <updated>2013-10-28T23:33:22+01:00</updated>
+  <id>http://grossen.github.io/</id>
+  <author>
+    <name><![CDATA[G Rossen]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[OpenSolaris 2008.05 has been released]]></title>
+    <link href="http://grossen.github.io/blog/2008/05/08/opensolaris-2008-dot-05-has-been-released/"/>
+    <updated>2008-05-08T20:30:00+02:00</updated>
+    <id>http://grossen.github.io/blog/2008/05/08/opensolaris-2008-dot-05-has-been-released</id>
+    <content type="html"><![CDATA[<p>It seems like Sun made a right choice hiring Ian Murdock. I installed
+OpenSolaris last night in a VMware Fusion instance, and it looks sweet: bash
+is the default shell, seperate /root home directory, live cd which acts as a
+install cd, ZFS, Xen, DTrace, Containers, a new package management system
+<a href="http://hub.opensolaris.org/bin/view/Project%2Bpkg/WebHome">IPS</a>. Now if only
+Sun could do something about the lack of hardware support.</p>
+
+<p>For more info and downloads: go to <a href="http://www.opensolaris.com">http://www.opensolaris.com</a></p>
+]]></content>
+  </entry>
+  
+</feed>

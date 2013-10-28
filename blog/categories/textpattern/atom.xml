@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: textpattern | Rossen .be]]></title>
+  <link href="http://grossen.github.io/blog/categories/textpattern/atom.xml" rel="self"/>
+  <link href="http://grossen.github.io/"/>
+  <updated>2013-10-28T23:33:22+01:00</updated>
+  <id>http://grossen.github.io/</id>
+  <author>
+    <name><![CDATA[G Rossen]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The Quest for the Perfect CMS ]]></title>
+    <link href="http://grossen.github.io/blog/2012/02/02/the-quest-for-the-perfect-cms/"/>
+    <updated>2012-02-02T23:03:00+01:00</updated>
+    <id>http://grossen.github.io/blog/2012/02/02/the-quest-for-the-perfect-cms</id>
+    <content type="html"><![CDATA[<p>It all started with WordPress&hellip;</p>
+
+<p>After WordPress i migrated to Drupal, Sypmhony CMS, Textpattern, MODx and now
+this site is running Plone.</p>
+
+<p>While it has a steep learning curve, Plone is doing out of the box what i want
+for this site, unlike the other CMS&rsquo;s where i needed a lot of
+plugins/addons/extentions.</p>
+
+<p>Textile markup, richt text editor, multimedia handling, integrated search,
+photo albums, &hellip; all included.</p>
+
+<p>One aspect Plone really needs to improve though, is theming. For simple
+designs, like this site, you can quite easily override some of the CSS, but
+advanced styling means deep diving into the bowels of Plone and Zope. Or as an
+alternative: using a theme transformer such as Diazo or Deliverance.</p>
+
+<p>Coming next: some small guides how to adapt the standard Plone install and
+theme into something similar to this site.</p>
+]]></content>
+  </entry>
+  
+</feed>

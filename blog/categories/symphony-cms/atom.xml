@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: symphony cms | Rossen .be]]></title>
+  <link href="http://grossen.github.io/blog/categories/symphony-cms/atom.xml" rel="self"/>
+  <link href="http://grossen.github.io/"/>
+  <updated>2013-10-28T23:33:22+01:00</updated>
+  <id>http://grossen.github.io/</id>
+  <author>
+    <name><![CDATA[G Rossen]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Symphony CMS - another migration]]></title>
+    <link href="http://grossen.github.io/blog/2010/08/11/symphony-cms-another-migration/"/>
+    <updated>2010-08-11T23:01:00+02:00</updated>
+    <id>http://grossen.github.io/blog/2010/08/11/symphony-cms-another-migration</id>
+    <content type="html"><![CDATA[<p>Don&rsquo;t get me wrong, <a href="http://www.drupal.org">Drupal</a> was &ndash; and still is &ndash; a
+fine tool to create many kinds of websites, but the lack of good themes was
+bothering me. So i had two choices: keep searching for a nice Drupal theme or
+creating one myself, which meant that i had to get my hands dirty on things
+like <a href="http://en.wikipedia.org/wiki/Css">CSS</a>, Drupal
+<a href="http://en.wikipedia.org/wiki/Api">api&rsquo;s</a>,…</p>
+
+<p>So, why not take the big splash and learn something completely new. I was
+always interested in technologies like <a href="http://en.wikipedia.org/wiki/Xml">XML</a>
+and <a href="http://en.wikipedia.org/wiki/Xslt">XSLT</a>, so i was delighted to find a
+CMS which is build around this standards: <a href="http://symphony-%0Acms.com">Symphony CMS</a>.</p>
+
+<p>So far it has been a great ride, most of the functionality of the old Drupal
+and Wordpress versions of this site has been migrated and i have finally found
+a framework which makes it very easy to seamless include services like
+Twitter, Flickr and Last.fm.</p>
+]]></content>
+  </entry>
+  
+</feed>
