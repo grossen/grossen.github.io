@@ -4,7 +4,7 @@
   <title><![CDATA[Rossen .be]]></title>
   <link href="http://grossen.github.io/atom.xml" rel="self"/>
   <link href="http://grossen.github.io/"/>
-  <updated>2013-10-28T23:33:22+01:00</updated>
+  <updated>2013-10-29T00:07:42+01:00</updated>
   <id>http://grossen.github.io/</id>
   <author>
     <name><![CDATA[G Rossen]]></name>
@@ -95,7 +95,7 @@ Here you click on the text of ploneCustom.css and then again on customize. A new
 </span></code></pre></td></tr></table></div></figure>
 
 
-<p>After this change the logo region of your site should be altered.</p>
+<p>After this edit the logo region of your site should be altered.</p>
 ]]></content>
   </entry>
   
